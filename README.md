@@ -23,24 +23,8 @@ Aram Zucker-Scharff (he/him) is the Engineering Lead for Privacy & Security Comp
 
 Mostly New York City, but you can also find him online at these places:
 
-[LinkedIn](http://bit.ly/aramzs)
-
-[Twitter](http://twitter.com/chronotope)
-
-<a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
+[LinkedIn](http://bit.ly/aramzs) | [Twitter](http://twitter.com/chronotope) | <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
 
 ## Other Places to Find Aram
 
-[What Aram has Been Thinking About](https://aramzs.github.io/)
-
-[What Aram has Been Writing and Doing](http://aramzs.me)
-
-[What Aram has Been Reading Online](http://chronoto.pe)
-
-[What Aram has Been Reading Offline](https://www.goodreads.com/user/show/1244876-aram)
-
-[What Aram has Been Listening To](https://www.last.fm/user/Shade0)
-
-[What Aram has Been Coding](https://fightwithtools.dev/)
-
-[What Aram has Been Researching](https://context.center/)
+[Blog](https://aramzs.github.io/) | [Developer's Notebook](https://fightwithtools.dev/)

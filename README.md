@@ -25,7 +25,7 @@ Aram Zucker-Scharff (he/him) is the Engineering Lead for Privacy & Security Comp
 
 Mostly New York City, but you can also find him online at these places:
 
-[LinkedIn](http://bit.ly/aramzs) | [Twitter](http://twitter.com/chronotope) | <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
+[LinkedIn](http://bit.ly/aramzs) | [Twitter](http://twitter.com/chronotope) | <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a> | [BlueSky](https://bsky.app/profile/chronotope.aramzs.xyz)
 
 ## Other Places to Find Aram
 

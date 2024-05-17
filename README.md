@@ -29,4 +29,4 @@ Mostly New York City, but you can also find him online at these places:
 
 ## Other Places to Find Aram
 
-[Blog](https://aramzs.github.io/) | [Developer's Notebook](https://fightwithtools.dev/)
+[Blog](https://aramzs.github.io/) | [Developer's Notebook](https://fightwithtools.dev/) | [Digital Garden](https://aramzs.xyz/)

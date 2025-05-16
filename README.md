@@ -17,7 +17,7 @@ Hi!
 
 ## What does Aram do?
 
-Aram Zucker-Scharff (he/him) is the Senior Staff Engineer for Privacy & Security Compliance at The Washington Post. He previously worked on the Zeus team, helping publishers to maximize site performance and revenue. He has also worked on The Washington Post’s Ad Tech R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
+Hi, I'm a Software Development Manager for Ad Tech at The Washington Post. I previously built the Privacy and Security Compliance team and worked on the Zeus SaaS team, helping publishers to maximize site performance and revenue. I've also worked on Washington Post R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
 
 [Read more about who I am and how to pronounce my name](https://aramzs.github.io/aramzs/)
 
@@ -30,3 +30,10 @@ Mostly New York City, but you can also find him online at these places:
 ## Other Places to Find Aram
 
 [Blog](https://aramzs.github.io/) | [Developer's Notebook](https://fightwithtools.dev/) | [Digital Garden](https://aramzs.xyz/)
+
+<details>
+<summary>⚡️ Very useless stats</summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aramzs&show_icons=true&count_private=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramzs&theme=tokyonight">
+</details>

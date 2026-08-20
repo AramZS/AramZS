@@ -31,9 +31,3 @@ Mostly New York City, but you can also find him online at these places:
 
 [Blog](https://aramzs.github.io/) | [Developer's Notebook](https://fightwithtools.dev/) | [Digital Garden](https://aramzs.xyz/)
 
-<details>
-<summary>⚡️ Very useless stats</summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aramzs&show_icons=true&count_private=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramzs&theme=tokyonight">
-</details>
